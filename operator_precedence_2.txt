@@ -1,0 +1,8 @@
+#include<stdio.h>
+int main()
+{
+int a7*5/7*7;
+printf("%d",a);
+return 0;
+
+}
